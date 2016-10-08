@@ -1,6 +1,6 @@
-#Java Project
+#User Registration
 
-*Java Project which contains a simple Java Application*
+*User Registration Project*
 
 * Java 7
 * Eclipse
